@@ -27,3 +27,7 @@ LABEL version="1.0"
 
 EXPOSE 3000
 ```
+
+## FAQ
+
+- **Why u no push on docker hub ?**: because proxy...
